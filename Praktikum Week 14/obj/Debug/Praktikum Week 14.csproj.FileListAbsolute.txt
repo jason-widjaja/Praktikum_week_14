@@ -1,0 +1,10 @@
+C:\Users\JASON\source\repos\jason-widjaja\Jason-Widjaja_PraktikumWeek13\Praktikum Week 14\bin\Debug\Praktikum Week 14.exe.config
+C:\Users\JASON\source\repos\jason-widjaja\Jason-Widjaja_PraktikumWeek13\Praktikum Week 14\bin\Debug\Praktikum Week 14.exe
+C:\Users\JASON\source\repos\jason-widjaja\Jason-Widjaja_PraktikumWeek13\Praktikum Week 14\bin\Debug\Praktikum Week 14.pdb
+C:\Users\JASON\source\repos\jason-widjaja\Jason-Widjaja_PraktikumWeek13\Praktikum Week 14\obj\Debug\Praktikum Week 14.csprojAssemblyReference.cache
+C:\Users\JASON\source\repos\jason-widjaja\Jason-Widjaja_PraktikumWeek13\Praktikum Week 14\obj\Debug\Praktikum_Week_14.Form1.resources
+C:\Users\JASON\source\repos\jason-widjaja\Jason-Widjaja_PraktikumWeek13\Praktikum Week 14\obj\Debug\Praktikum_Week_14.Properties.Resources.resources
+C:\Users\JASON\source\repos\jason-widjaja\Jason-Widjaja_PraktikumWeek13\Praktikum Week 14\obj\Debug\Praktikum Week 14.csproj.GenerateResource.cache
+C:\Users\JASON\source\repos\jason-widjaja\Jason-Widjaja_PraktikumWeek13\Praktikum Week 14\obj\Debug\Praktikum Week 14.csproj.CoreCompileInputs.cache
+C:\Users\JASON\source\repos\jason-widjaja\Jason-Widjaja_PraktikumWeek13\Praktikum Week 14\obj\Debug\Praktikum Week 14.exe
+C:\Users\JASON\source\repos\jason-widjaja\Jason-Widjaja_PraktikumWeek13\Praktikum Week 14\obj\Debug\Praktikum Week 14.pdb
